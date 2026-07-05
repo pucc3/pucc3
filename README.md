@@ -26,4 +26,5 @@ _will arrive soon_
 ---
 ### Contact Me 🔗
 **Email:** [puccerisimon3@gmail.com](mailto:puccerisimon3@gmail.com)
+
 **LinkedIn**: [Simone Pucceri](https://www.linkedin.com/in/simone-pucceri-248b0b351/)
