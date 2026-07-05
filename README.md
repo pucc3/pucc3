@@ -1,22 +1,29 @@
 # Pucceri Simone
 ---
 
-I'm a Computer Scienze student. 👨🏽‍🎓
+👨🏽‍🎓 I'm a Computer Scienze student. 
 
 ---
 
-### Languages and Tools 🧰
+### 🧰 Languages and Tools 
+- **Programming Languages**: C, Python, Java, JavaScript, Assembly RISC-V 
+- **Markup Languages**: Latex
+- **Web Development**: HTML, CSS
+- **Frameworks and Libraris**: Spring Boot, Mesa, Matplotlib, Plotly, Solara, Express
+- **Databases and Tools**: PostgreSQL, Git, Docker
+- **Operating Systems**: Ubuntu, Windows
+
+
+---
+
+### 💻 Featured projects 
 _will arrive soon_
 
 ---
 
-### Featured projects 💻
-
----
-
-### Training and future goals 🎯
+### 🎯 Training and future goals 
 _will arrive soon_
 
 ---
 ### Contact Me 🔗
-_will arrive soon_
+**Email:** [puccerisimon3@gmail.com](mailto:puccerisimon3@gmail.com)
