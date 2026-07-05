@@ -1,7 +1,7 @@
 # Pucceri Simone
 ---
 
-👨🏽‍🎓 I'm a Computer Scienze student. 
+👨🏽‍🎓 I'm a Computer Science student. 
 
 ---
 
